@@ -20,5 +20,5 @@ Opcja 2: Projekt może zostać pobrany jako *.zip do ściągnięcia.
 ```MainObject```
 - Po wybraniu jednego z nich wyniki zostaną wyświetlone w konsoli programu.
 - W celu edycji programu należy z drzewka folderów/katalogów rozwinąć:
-FirstProgram > src > com > sdatest lub sda.programowanie
+`src > com > sdatest lub sda.programowanie`
  
